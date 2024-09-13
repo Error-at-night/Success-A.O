@@ -11329,8 +11329,6 @@ body.template-color-1 {
 
 .rn-right-demo .demo-button {
     border-radius: 6px 0 0 6px;
-    /* background: linear-gradient(145deg, #1e2024, #23272b); */
-    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
     transition: var(--transition);
     position: relative;
     top: -30px;
@@ -12710,7 +12708,6 @@ figcaption {
 .slide.slider-style-3 .slider-wrapper .slider-info .user-info-top {
     padding: 30px 10px 0;
     background: var(--background-color-2);
-    /* box-shadow: var(--shadow-1); */
     border-radius: 10px 10px 0 0;
 }
 
@@ -12831,9 +12828,7 @@ figcaption {
 
 .slide.slider-style-3 .slider-wrapper .slider-info .user-info-bottom {
     border-radius: 0 0 10px 10px;
-    /* margin-top: 30px; */
     padding: 35px 10px 0;
-    /* box-shadow: var(--shadow-1); */
 }
 
 @media only screen and (max-width: 479px) {
@@ -12871,7 +12866,6 @@ figcaption {
 
 .slide.slider-style-3 .slider-wrapper .background-image-area {
     padding: 20px 10px 0;
-    /* box-shadow: var(--shadow-1); */
     position: relative;
     right: 0;
     border-radius: 10px;
