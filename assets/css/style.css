@@ -12670,28 +12670,28 @@ figcaption {
 }
 
 .slide.slider-style-3 .slider-wrapper {
-    padding-top: 210px;
+    padding-top: 216px;
     display: flex;
     justify-content: space-between;
 }
 
 @media only screen and (max-width: 1199px) {
     .slide.slider-style-3 .slider-wrapper {
-        padding-top: 126px;
+        padding-top: 130px;
         padding-bottom: 45px;
     }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .slide.slider-style-3 .slider-wrapper {
-        padding-top: 126px;
+        padding-top: 120px;
         padding-bottom: 0;
     }
 }
 
-@media only screen and (max-width: 479px) {
+@media only screen and (max-width: 767px) {
     .slide.slider-style-3 .slider-wrapper {
-        padding-top: 126px;
+        padding-top: 90px;
         padding-bottom: 16px;
     }
 }
@@ -12706,15 +12706,14 @@ figcaption {
 }
 
 .slide.slider-style-3 .slider-wrapper .slider-info .user-info-top {
-    padding: 30px 10px 0;
+    padding: 25px 10px 0;
     background: var(--background-color-2);
     border-radius: 10px 10px 0 0;
 }
 
 @media only screen and (max-width: 479px) {
     .slide.slider-style-3 .slider-wrapper .slider-info .user-info-top {
-        padding: 25px 10px 0;
-        padding-top: 30px;
+        padding: 25px 10px 10px 0;
     }
 }
 
@@ -12828,12 +12827,12 @@ figcaption {
 
 .slide.slider-style-3 .slider-wrapper .slider-info .user-info-bottom {
     border-radius: 0 0 10px 10px;
-    padding: 35px 10px 0;
+    padding: 10px 10px 0;
 }
 
 @media only screen and (max-width: 479px) {
     .slide.slider-style-3 .slider-wrapper .slider-info .user-info-bottom {
-        padding: 20px 20px 0;
+        padding: 10px 10px 10px 0;
     }
 }
 
@@ -12865,7 +12864,7 @@ figcaption {
 }
 
 .slide.slider-style-3 .slider-wrapper .background-image-area {
-    padding: 20px 10px 0;
+    padding: 10px 10px 0;
     position: relative;
     right: 0;
     border-radius: 10px;
@@ -12875,7 +12874,7 @@ figcaption {
 
 @media only screen and (max-width: 479px) {
     .slide.slider-style-3 .slider-wrapper .background-image-area {
-        padding: 20px;
+        padding: 10px;
     }
 }
 
